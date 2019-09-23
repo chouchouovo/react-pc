@@ -7,14 +7,27 @@
 - [ ] ant design：UI 库
 - [ ] axios：请求库
 
-## 开发
+## 开发环境
 
 - [x] 在编辑器中显示 Lint 输出
 - [x] vscode 调试 react，按 f5 或 单击绿色调试图
 - [ ] 隔离开发组件：
     - [Storybook 文档](https://www.learnstorybook.com/react/zh-CN/get-started)
     - [Styleguidist 文档](https://react-styleguidist.js.org/docs/getting-started.html)
+- [ ] 包分析依赖
+- [ ] 开发环境使用 HTTPS
 
+### 开发环境中使用 HTTPS
+```
+# Windows (cmd.exe)：缺少空格是故意的
+set HTTPS=true&&npm start
+
+# Windows (Powershell)
+($env:HTTPS = "true") -and (npm start)
+
+# Linux, macOS (Bash)
+HTTPS=true npm start
+```
 
 ## 文档
 
