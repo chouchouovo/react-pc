@@ -15,8 +15,9 @@
 - [ ] 隔离开发组件：
     - [Storybook 文档](https://www.learnstorybook.com/react/zh-CN/get-started)
     - [Styleguidist 文档](https://react-styleguidist.js.org/docs/getting-started.html)
-- [ ] 包分析依赖
+- [x] 包分析依赖
 - [ ] 开发环境使用 HTTPS
+- [x] 添加 git-cz
 
 ### 开发环境中使用 HTTPS
 ```
