@@ -47,9 +47,16 @@
     ]
   },
   "devDependencies": {
+    "commitizen": "^4.0.3",
+    "git-cz": "^3.2.1",
     "husky": "^3.0.5",
     "lint-staged": "^9.3.0",
     "prettier": "^1.18.2",
     "source-map-explorer": "^2.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
   }
 }
