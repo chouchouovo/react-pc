@@ -6,6 +6,7 @@
 
 - [ ] ant design：UI 库
 - [ ] axios：请求库
+- [ ] ts
 
 ## 开发环境
 
