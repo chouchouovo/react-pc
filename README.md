@@ -11,6 +11,10 @@
 
 - [x] 在编辑器中显示 Lint 输出
 - [x] vscode 调试 react，按 f5 或 单击绿色调试图
+- [ ] 隔离开发组件：
+    - [Storybook 文档](https://www.learnstorybook.com/react/zh-CN/get-started)
+    - [Styleguidist 文档](https://react-styleguidist.js.org/docs/getting-started.html)
+
 
 ## 文档
 
