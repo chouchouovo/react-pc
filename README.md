@@ -8,6 +8,9 @@
 - [ ] axios：请求库
 - [ ] ts
 
+## 技术栈
+
+
 ## 开发环境
 
 - [x] 在编辑器中显示 Lint 输出
@@ -38,3 +41,31 @@ HTTPS=true npm start
 3. [create-react-app](https://create-react-app.dev/)
 4. [create-react-app 中文](https://www.html.cn/create-react-app/)
 5. [ant-design](https://ant.design/index-cn)
+
+## 目录结构
+```
+.
+├── README.md
+├── changelog.config.js
+├── package.json
+├── public
+├── src
+│   ├── App.tsx
+│   ├── assets
+│   ├── components
+│   ├── docs
+│   ├── index.tsx
+│   ├── locales
+│   ├── mocks
+│   ├── models
+│   ├── plugins
+│   ├── react-app-env.d.ts
+│   ├── routes
+│   ├── serviceWorker.js
+│   ├── services
+│   ├── themes
+│   ├── utils
+│   └── views
+├── tsconfig.json
+└── yarn.lock
+```
